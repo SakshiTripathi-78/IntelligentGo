@@ -1,18 +1,17 @@
-# 🚗 FuelWise — India's Smartest Fuel Route Optimizer
+# 🚗 IntelligentGo — India's Smartest Fuel Route Optimizer
 
 > A full-stack intelligent route planning application that finds the **cheapest fuel stops** across Indian highways, powered by real-time weather data and AI-driven safety advisories.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FuelWise-orange)](https://route-optimization-nishant.vercel.app/)
-
-[![Backend](https://img.shields.io/badge/Backend-Render-blue)](https://smarttravel-9bjd.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FuelWise-orange)](https://your-frontend.vercel.app)
+[![Backend](https://img.shields.io/badge/Backend-Render-blue)](https://your-backend.com)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
 ## 🌟 Live Demo
 
-- **Frontend:** [https://route-optimization-nishant.vercel.app/](https://route-optimization-nishant.vercel.app/)
-- **Backend API:** [smarttravel-9bjd.onrender.com](https://smarttravel-9bjd.onrender.com)
+- **Frontend:** [Frontend](https://your-frontend.vercel.app)
+- **Backend API:** [Backend-Server](https://your-backend.com)
 
 ---
 
@@ -204,8 +203,8 @@ total_cost = Σ segment_costs
 
 ### Backend
 ```bash
-git clone https://github.com/omnigod-web/RouteOptimization
-cd RouteOptimization/Backend
+git https://github.com/SakshiTripathi-78/IntelligentGo
+cd IntelligentGo/Backend
 npm install
 ```
 
@@ -228,7 +227,7 @@ npm run dev
 
 ### Frontend
 ```bash
-cd RouteOptimization/frontend
+cd IntelligentGo/frontend
 npm install
 ```
 
@@ -246,7 +245,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-FuelOptimizationApi/
+IntelligentGo/
 ├── Backend/
 │   ├── src/
 │   │   ├── config/
@@ -301,9 +300,9 @@ FuelOptimizationApi/
 
 ## 👨‍💻 Author
 
-**Nishant Kumar**
-- GitHub: [@omnigod-web](https://github.com/omnigod-web)
-- LinkedIn: [nishant-singh-m610937](https://www.linkedin.com/in/nishant-singh-m610937/)
+**Sakshi Ashok Tripathi**
+- GitHub: [@Sakshi-Ashok-Tripathi](https://github.com/SakshiTripathi-78)
+- LinkedIn: [#Sakshi-Ashok-Tripathi](https://www.linkedin.com/in/sakshi-ashok-tripathi-043a55325/)
 
 ---
 
