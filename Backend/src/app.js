@@ -14,7 +14,7 @@ app.set('trust proxy', 1)
 app.use(cors({
     origin: [
         'http://localhost:5173',
-        'http://localhost:5173' // ← add your Vercel URL
+    'https://intelligent-go.vercel.app' // ← add your Vercel URL
     ]
 }))
 app.use(morgan('dev')) // basically used for a better debugging.

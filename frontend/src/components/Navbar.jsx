@@ -20,7 +20,7 @@ const Navbar = () => {
           <a href="#how-it-works" className="text-slate-600 hover:text-orange-500 transition-colors text-sm font-medium">
             How it works
           </a>
-          <a href="https://github.com/omnigod-web" target="_blank" rel="noreferrer" className="flex items-center gap-2 bg-slate-800 hover:bg-slate-700 text-white px-4 py-2 rounded-xl text-sm font-medium transition-colors">
+          <a href="https://github.com/SakshiTripathi-78" target="_blank" rel="noreferrer" className="flex items-center gap-2 bg-slate-800 hover:bg-slate-700 text-white px-4 py-2 rounded-xl text-sm font-medium transition-colors">
             <FaGithub className="text-lg" />
             GitHub
           </a>
