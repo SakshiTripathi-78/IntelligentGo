@@ -1,3 +1,4 @@
+//for the vehicles.
 export const vehicleProfiles = {
     bike: {
         label: 'Motorcycle/Bike',
