@@ -19,7 +19,7 @@ app.use(cors({
 }))
 app.use(morgan('dev')) // basically used for a better debugging.Logs every request to terminal.
 app.use(express.json()) // Parse jason request bodies.
-app.use(rateLimiter) //rate limit all routes.
+app.use(rateLimiter) //. rate limit all routes.
 
 
 app.use('/api', routeRouter)
