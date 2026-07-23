@@ -1,5 +1,9 @@
 import Joi from 'joi'
 
+/*
+Joi is used to automatically check and clean incoming data
+(like form submissions) to ensure it meets your rules before hitting your server or database.
+*/
 export const routeSchema = Joi.object({
     start: Joi.string().trim().min(2).max(100).required()
         .messages({
